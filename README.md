@@ -14,3 +14,7 @@ Welcome to the **Planet Slider** project! This project features an interactive s
 - CSS
 - JavaScript
 
+
+## Демонстрация работы
+
+![Демонстрация работы](assets/slider.gif)
